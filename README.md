@@ -64,6 +64,4 @@ pip install pandas numpy matplotlib seaborn scikit-learn plotly tensorflow
 - Perform feature selection to remove less relevant features.
 - Collect more diverse data to improve generalization.
 
-## Author
-Your Name - [Your Contact Info]
 
